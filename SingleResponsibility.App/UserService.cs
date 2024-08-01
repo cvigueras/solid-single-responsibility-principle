@@ -7,10 +7,5 @@
             //Do login
             return new User();
         }
-
-        public void SendEmail(User user, string message)
-        {
-            //Send Email to User
-        }
     }
 }
